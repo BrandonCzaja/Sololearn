@@ -15,3 +15,8 @@ text""")  # Three quotes automatically creates a multiline quote where you indic
 
 # Concatenation
 print("Green" + " " + "Eggs" + " " + "and " + "Ham")
+
+
+# Multiplying Strings: Must add space or its all one big word
+print('Spam ' * 3)
+print(4 * 'Honey ')
