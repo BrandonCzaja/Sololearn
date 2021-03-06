@@ -12,3 +12,6 @@ print('Line One \nLine Two, \nLine Three')
 print("""this is
 a multiline 
 text""")  # Three quotes automatically creates a multiline quote where you indicate it to
+
+# Concatenation
+print("Green" + " " + "Eggs" + " " + "and " + "Ham")
