@@ -33,3 +33,16 @@ print(player)
 # User input
 text = input('Enter your name: ')
 print(text)
+
+age = int(input('Enter you age: '))
+ageStr = age
+print('His age is ' + str(age))
+
+name = input('Random name: ')
+lastName = input('Random last name: ')
+print(name + lastName)
+
+# Example
+x = int(input('Value for x: '))
+y = int(input('Value for y: '))
+print(x + y)
