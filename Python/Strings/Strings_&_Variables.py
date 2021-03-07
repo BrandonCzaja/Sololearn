@@ -31,5 +31,5 @@ print(player)
 
 
 # User input
-text = input()
+text = input('Enter your name: ')
 print(text)
