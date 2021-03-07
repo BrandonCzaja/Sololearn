@@ -20,3 +20,8 @@ print("Green" + " " + "Eggs" + " " + "and " + "Ham")
 # Multiplying Strings: Must add space or its all one big word
 print('Spam ' * 3)
 print(4 * 'Honey ')
+
+# Variables
+# Don't need let const or var
+player = "Brandon"
+print(player)
