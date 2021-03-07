@@ -1,25 +1,25 @@
-print('Python is fun!')
-print('Always look on the bright side')
+# print('Python is fun!')
+# print('Always look on the bright side')
 
 
 # Escaping characters
-print("And then he said \"Hi everybody!\" and we all laughed")
+# print("And then he said \"Hi everybody!\" and we all laughed")
 
 
 # Newlines: \n
-print('Line One \nLine Two, \nLine Three')
+# print('Line One \nLine Two, \nLine Three')
 
-print("""this is
-a multiline 
-text""")  # Three quotes automatically creates a multiline quote where you indicate it to
+# print("""this is
+# a multiline
+# text""")  # Three quotes automatically creates a multiline quote where you indicate it to
 
 # Concatenation
-print("Green" + " " + "Eggs" + " " + "and " + "Ham")
+# print("Green" + " " + "Eggs" + " " + "and " + "Ham")
 
 
 # Multiplying Strings: Must add space or its all one big word
-print('Spam ' * 3)
-print(4 * 'Honey ')
+# print('Spam ' * 3)
+# print(4 * 'Honey ')
 
 # Variables
 # Don't need let const or var
@@ -27,7 +27,7 @@ print(4 * 'Honey ')
 player = "Brandon"
 player = 1
 # Variables don't have types so you can change them
-print(player)
+# print(player)
 
 
 # User input
@@ -43,12 +43,23 @@ print(player)
 # print(name + lastName)
 
 # Example
-x = int(input('Value for x: '))
-y = int(input('Value for y: '))
-print(x + y)
+# x = int(input('Value for x: '))
+# y = int(input('Value for y: '))
+# print(x + y)
 
 
 # In-place Operators
 a = 0
 a += 5
-print('a = ' + a)
+b = 1
+b * + 10
+# print('a = ' + a)
+# print('b = ' + b)
+
+z = 'Hello'
+z += 'world'
+# print(z)
+
+c = 3
+num = 17
+print(num % c)
