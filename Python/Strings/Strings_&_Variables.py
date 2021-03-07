@@ -70,3 +70,4 @@ my_boolean = True
 your_boolean = False
 our_boolean = my_boolean != your_boolean
 print(my_boolean, your_boolean, our_boolean)
+print(7 >= 7.0)  # Prints True because because they are the same
