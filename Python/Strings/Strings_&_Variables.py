@@ -23,5 +23,11 @@ print(4 * 'Honey ')
 
 # Variables
 # Don't need let const or var
+# Only letters numbers and underscores can be used, can't start with numbers
 player = "Brandon"
+player = 1
+# Variables don't have types so you can change them
 print(player)
+
+
+# User input
