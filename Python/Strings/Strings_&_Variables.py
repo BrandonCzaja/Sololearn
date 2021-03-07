@@ -62,4 +62,11 @@ z += 'world'
 
 c = 3
 num = 17
-print(num % c)
+#print(num % c)
+
+
+# Booleans
+my_boolean = True
+your_boolean = False
+our_boolean = my_boolean != your_boolean
+print(my_boolean, your_boolean, our_boolean)
