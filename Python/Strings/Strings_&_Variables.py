@@ -31,3 +31,5 @@ print(player)
 
 
 # User input
+text = input()
+print(text)
