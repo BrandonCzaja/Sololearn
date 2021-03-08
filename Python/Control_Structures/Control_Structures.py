@@ -32,3 +32,18 @@ if num > 3:
         if num == 7:
             print("7")
 # This results in the output of 3 because once num is checked against 5 it exits the program
+
+
+# IF ELSE STATEMENTS
+x = 4
+if x == 5:
+    print('Yes')
+else:
+    print('No')
+
+# Example:
+if 1 + 1 == 2:
+    if 2 * 2 == 8:
+        print("if")
+    else:
+        print("else")
