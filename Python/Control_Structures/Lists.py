@@ -15,3 +15,9 @@ things = ['string', 0, [1, 2, number], 4.56]
 # Nesting Lists
 matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 print(matrix[1][2])  # prints 6
+
+
+# Strings also can be index like lists
+str = "Hello world!"
+print(str[5])  # Prints the blank space
+print(str[6])
