@@ -41,9 +41,24 @@ if x == 5:
 else:
     print('No')
 
-# Example:
+# Example: Prints else
 if 1 + 1 == 2:
     if 2 * 2 == 8:
         print("if")
     else:
         print("else")
+
+
+# Example of Nesting If Else Statements
+num = 4
+if num == 1:
+    print('One')
+else:
+    if num == 2:
+        print('Two')
+    else:
+        if num == 3:
+            print('Three')
+        else:
+            print('Something else')
+# Something else gets printed
