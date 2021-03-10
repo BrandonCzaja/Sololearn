@@ -50,3 +50,22 @@ if "spam" in words:
     print('Yes')
     if 2 in nums:
         print("Also Yes")
+
+######
+# List Functions
+######
+
+# Append
+nums.append(4)
+print(nums)
+
+
+# Len
+nums = [1, 3, 4, 5, 6, 7, 8]
+print(len(nums))
+
+string = "Hello"
+print(len(string))
+
+my_num = 12345
+# print(len(my_num)) This would throw an error
