@@ -69,3 +69,11 @@ print(len(string))
 
 my_num = 12345
 # print(len(my_num)) This would throw an error
+
+
+# Insert
+words = ["Python", 'fun']
+index = 1
+words.insert(index, "is")
+words.insert(2, "very")
+print(words)
