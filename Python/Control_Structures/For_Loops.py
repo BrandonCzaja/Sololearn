@@ -10,8 +10,8 @@ for char in str:
     print(iteration)
     iteration += 1
     if iteration == 5:
-        continue
         print('Continue')
+        continue
 
     if iteration > 10:
         break
