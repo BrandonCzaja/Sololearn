@@ -18,3 +18,7 @@ numbers = list(range(0, 11, 2))
 reverse_numbers = list(range(10, -1, -2))
 print(reverse_numbers)
 print(numbers)
+
+
+for i in range(10):
+    print('Yo')
