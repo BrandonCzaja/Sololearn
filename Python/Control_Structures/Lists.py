@@ -77,3 +77,11 @@ index = 1
 words.insert(index, "is")
 words.insert(2, "very")
 print(words)
+
+
+# Index
+# Finds the first occurrence and returns the index
+letters = ["a", "b", "c", "a", "e", "f", "b", "c", "d"]
+print(letters.index('c'))
+print(letters.index('f'))
+# print(letters.index('z')) Throws error
