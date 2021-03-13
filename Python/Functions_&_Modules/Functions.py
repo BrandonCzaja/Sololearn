@@ -15,3 +15,12 @@ def print_words(word):
 print_words('Hello')
 print_words('my')
 print_words('friend')
+
+
+# Pass Multiple arguments
+def multiple_arguments(x, y):
+    print(x * y)
+    print(x / y)
+
+
+multiple_arguments(5, 8)
